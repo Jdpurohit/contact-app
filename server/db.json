@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "08a051a3-ec49-4004-b951-1a99625949b8",
+      "name": "gopal",
+      "email": "gopal@gmail.com"
+    },
+    {
+      "id": "4108a109-a2d5-4c5e-8110-63bfc17b666b",
+      "name": "raju",
+      "email": "raju@gmail.com"
+    },
+    {
+      "id": "b6fa1cd3-5ecf-4b81-bd61-2adee393bf60",
+      "name": "manju",
+      "email": "maju@gmail.com"
+    },
+    {
+      "id": "62d38a17-dbb2-421b-bff3-37f8920d5c7e",
+      "name": "jay",
+      "email": "jay@gmail.com"
+    }
+  ]
+}
